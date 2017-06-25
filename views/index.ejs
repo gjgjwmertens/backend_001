@@ -6,6 +6,10 @@
   </head>
   <body>
     <h1><%= title %></h1>
-    <p>Welcomes to <%= title %></p>
+    <p>Welcome to <%= title %></p>
   </body>
+  <% include templates/script.ejs %>
+  <script>
+     console.log('JQuery: ' + $().jquery);
+  </script>
 </html>
