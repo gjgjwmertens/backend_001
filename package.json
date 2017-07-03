@@ -17,7 +17,7 @@
       "moment": "^2.18.1",
       "morgan": "~1.8.1",
       "nodemon": "^1.11.0",
-      "reload": "^1.1.6",
+      "reload": "^1.1.7",
       "serve-favicon": "~2.4.2",
       "socket.io": "^2.0.3"
    }
